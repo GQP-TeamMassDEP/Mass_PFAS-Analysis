@@ -1,0 +1,65 @@
+,places,response,pred,prob,pred_result,train_test_x,Release,Prediction Outcome,train_test_release,train_test
+0,2502509,0.0,0.0,0.07277331002331003,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+1,2502516,0.0,0.0,0.07751068376068376,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+2,2500199,0.0,0.0,0.0854558497058497,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+3,2500599,0.0,0.0,0.0854558497058497,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+4,2502510,0.0,0.0,0.08832886557886559,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+5,2502505,0.0,0.0,0.09112179487179488,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+6,2501737,0.0,0.0,0.09497100122100123,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+7,2502518,0.0,0.0,0.09878918303918305,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+8,2500999,0.0,0.0,0.1050669608169608,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+9,2502599,0.0,0.0,0.1050669608169608,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+10,2501798,0.0,0.0,0.10856696081696081,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+11,2501380,0.0,0.0,0.12789812964812963,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+12,2502351,0.0,0.0,0.13429545454545455,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+13,2501734,0.0,0.0,0.14247727272727276,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+14,2502142,0.0,0.0,0.15562878787878792,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+15,2502145,0.0,0.0,0.19091860916860917,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+16,2502517,0.0,0.0,0.20619651263768904,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+17,2502352,0.0,0.0,0.21755108780108778,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+18,2502504,0.0,0.0,0.24598290598290595,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+19,2500390,0.0,0.0,0.2621915029415029,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+20,2502514,0.0,0.0,0.2776899766899767,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+21,2501735,0.0,0.0,0.29451146076146073,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+22,2500920,0.0,0.0,0.2984004753416518,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+23,2500598,0.0,0.0,0.4110454822954822,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+24,2501995,1.0,0.0,0.41266464091464095,False Negative,Training Set,True,Release(s) Occurred:  Model Failed to Predict,Training Locations: Release(s) Occurred,Training Set
+25,2500925,0.0,0.0,0.4270749528249528,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+26,2502144,0.0,0.0,0.45154323454323453,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+27,2501733,1.0,0.0,0.46532355226472866,False Negative,Test Set,True,Release(s) Occurred:  Model Failed to Predict,Test Locations: Release(s) Occurred,Test Set
+28,2500922,0.0,0.0,0.4665466069877835,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+29,2500565,0.0,0.0,0.46998285048285054,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+30,2500921,0.0,0.0,0.470637127578304,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+31,2502598,0.0,0.0,0.48218448218448223,True Negative,Test Set,False,No Documented Release:  Lower Risk Predicted,Training Locations: No Documented Release,Test Set
+32,2500560,0.0,0.0,0.488503594444771,True Negative,,False,No Documented Release:  Lower Risk Predicted,,
+33,2500564,0.0,0.0,0.4932527341939106,True Negative,Training Set,False,No Documented Release:  Lower Risk Predicted,Test Locations: No Documented Release,Training Set
+34,2502356,0.0,1.0,0.5604462759462759,False Positive,Training Set,False,No Documented Release:  Higher Risk Predicted,Test Locations: No Documented Release,Training Set
+35,2502140,1.0,1.0,0.5665625910037675,True Positive,Test Set,True,Release(s) Occurred:  Correctly Predicted,Test Locations: Release(s) Occurred,Test Set
+36,2500720,1.0,1.0,0.5822416896828662,True Positive,Test Set,True,Release(s) Occurred:  Correctly Predicted,Test Locations: Release(s) Occurred,Test Set
+37,2502141,1.0,1.0,0.638293332484509,True Positive,Training Set,True,Release(s) Occurred:  Correctly Predicted,Training Locations: Release(s) Occurred,Training Set
+38,2501732,1.0,1.0,0.6435356179767944,True Positive,Test Set,True,Release(s) Occurred:  Correctly Predicted,Test Locations: Release(s) Occurred,Test Set
+39,2500391,1.0,1.0,0.6568282273282274,True Positive,,True,Release(s) Occurred:  Correctly Predicted,,
+40,2501730,1.0,1.0,0.657457375957376,True Positive,Test Set,True,Release(s) Occurred:  Correctly Predicted,Test Locations: Release(s) Occurred,Test Set
+41,2502776,1.0,1.0,0.6607907092907094,True Positive,Test Set,True,Release(s) Occurred:  Correctly Predicted,Test Locations: Release(s) Occurred,Test Set
+42,2500927,0.0,1.0,0.67108784352902,False Positive,Test Set,False,No Documented Release:  Higher Risk Predicted,Training Locations: No Documented Release,Test Set
+43,2502774,0.0,1.0,0.6794797849209614,False Positive,Test Set,False,No Documented Release:  Higher Risk Predicted,Training Locations: No Documented Release,Test Set
+44,2502770,0.0,1.0,0.6902924297924298,False Positive,Training Set,False,No Documented Release:  Higher Risk Predicted,Test Locations: No Documented Release,Training Set
+45,2501736,1.0,1.0,0.6934370498782265,True Positive,,True,Release(s) Occurred:  Correctly Predicted,,
+46,2500393,0.0,1.0,0.6964732489732489,False Positive,Test Set,False,No Documented Release:  Higher Risk Predicted,Training Locations: No Documented Release,Test Set
+47,2500926,1.0,1.0,0.6985988880400646,True Positive,Test Set,True,Release(s) Occurred:  Correctly Predicted,Test Locations: Release(s) Occurred,Test Set
+48,2502350,1.0,1.0,0.7288300457712222,True Positive,Training Set,True,Release(s) Occurred:  Correctly Predicted,Training Locations: Release(s) Occurred,Training Set
+49,2501731,1.0,1.0,0.7348052372464138,True Positive,Training Set,True,Release(s) Occurred:  Correctly Predicted,Training Locations: Release(s) Occurred,Training Set
+50,2501104,1.0,1.0,0.74046225996226,True Positive,,True,Release(s) Occurred:  Correctly Predicted,,
+51,2502354,0.0,1.0,0.7418065823065824,False Positive,Test Set,False,No Documented Release:  Higher Risk Predicted,Training Locations: No Documented Release,Test Set
+52,2502773,1.0,1.0,0.7826965681377446,True Positive,,True,Release(s) Occurred:  Correctly Predicted,,
+53,2502771,1.0,1.0,0.784073635514812,True Positive,Test Set,True,Release(s) Occurred:  Correctly Predicted,Test Locations: Release(s) Occurred,Test Set
+54,2500561,0.0,1.0,0.7876926831338597,False Positive,Training Set,False,No Documented Release:  Higher Risk Predicted,Test Locations: No Documented Release,Training Set
+55,2502353,1.0,1.0,0.8093294907706671,True Positive,Training Set,True,Release(s) Occurred:  Correctly Predicted,Training Locations: Release(s) Occurred,Training Set
+56,2500101,1.0,1.0,0.8116806951218715,True Positive,,True,Release(s) Occurred:  Correctly Predicted,,
+57,2501381,0.0,1.0,0.8130873015873015,False Positive,,False,No Documented Release:  Higher Risk Predicted,,
+58,2501738,1.0,1.0,0.8371258610670373,True Positive,Training Set,True,Release(s) Occurred:  Correctly Predicted,Training Locations: Release(s) Occurred,Training Set
+59,2500392,0.0,1.0,0.8427246642246642,False Positive,Test Set,False,No Documented Release:  Higher Risk Predicted,Training Locations: No Documented Release,Test Set
+60,2500563,1.0,1.0,0.8462897657897658,True Positive,Training Set,True,Release(s) Occurred:  Correctly Predicted,Training Locations: Release(s) Occurred,Training Set
+61,2501582,0.0,1.0,0.8557832722832722,False Positive,Test Set,False,No Documented Release:  Higher Risk Predicted,Training Locations: No Documented Release,Test Set
+62,2502772,1.0,1.0,0.8654802419802421,True Positive,Training Set,True,Release(s) Occurred:  Correctly Predicted,Training Locations: Release(s) Occurred,Training Set
+63,2502775,1.0,1.0,0.9212167277167276,True Positive,,True,Release(s) Occurred:  Correctly Predicted,,

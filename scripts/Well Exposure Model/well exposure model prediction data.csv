@@ -1,0 +1,220 @@
+,response,prob,pred,pred_result,pred_result_label,correct_incorrect,lat_x,lon_x
+0,1.0,0.04738331951557984,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.3861417,-71.48449454473209
+1,0.0,0.09101333727559768,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38572365,-71.48421877366796
+2,0.0,0.019743806591856396,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3830744,-71.48460286267394
+3,0.0,0.021341292406695155,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38268755,-71.48468023745684
+4,0.0,0.018898595693363766,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38172755,-71.48629084396677
+5,0.0,0.01904837421377696,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3809615,-71.48709959033994
+6,0.0,0.021315235163284967,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38743685,-71.48636519177211
+7,1.0,0.021315235163284967,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.38728585,-71.4858771
+8,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38191785,-71.48427789956938
+9,1.0,0.00492093136422885,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.380907799999996,-71.48439768154874
+10,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3819454,-71.48581071151095
+11,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38135695,-71.48509687891881
+12,0.0,0.05798226842414176,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38105165,-71.48542489627563
+13,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38070255,-71.48822579954668
+14,0.0,0.018315235163284968,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.37934605,-71.48959470541958
+15,0.0,0.02252952087757068,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.37922835,-71.49059166093764
+16,0.0,0.030809943200345948,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3852908,-71.4840806265824
+17,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38037195,-71.48885817357761
+18,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.380519299999996,-71.48772622285783
+19,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3794654,-71.48914246968714
+20,0.0,0.016682806219679557,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38137775,-71.4838993
+21,1.0,0.021341292406695155,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.38166305,-71.48464230500365
+22,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3797686,-71.48868871536908
+23,0.0,0.00492093136422885,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38004905,-71.48944232056856
+24,0.0,0.25700266663331717,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38142695000001,-71.49494984359757
+25,1.0,0.21795114366998292,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.38875205,-71.49670350115997
+26,0.0,0.07172647947452927,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.37917635,-71.49565584311024
+27,0.0,0.07172647947452927,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.37917635,-71.49565584311024
+28,1.0,0.3642948130381106,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.387678,-71.49581873324281
+29,1.0,0.23778612450442202,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.381964700000005,-71.49504657527955
+30,0.0,0.26154881593236123,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3849969,-71.49766714563644
+31,0.0,0.026586082879380368,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.380858399999994,-71.4926817421402
+32,0.0,0.25049584358650945,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38258725,-71.49620390000001
+33,0.0,0.17980036859366594,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3855629,-71.49768182071458
+34,0.0,0.0955487812920788,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38125529999999,-71.49279435
+35,0.0,0.12010247566787842,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3814133,-71.49328933478259
+36,1.0,0.3431717257097755,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.38060725,-71.49542905622809
+37,0.0,0.3404415332116418,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3812381,-71.4983681822508
+38,0.0,0.012757811443214188,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.37985235,-71.49099921446205
+39,0.0,0.010713860657158139,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.37989615,-71.49016025556841
+40,0.0,0.2656146915674474,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38086455,-71.49430330400905
+41,0.0,0.14663520963325952,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.3832763,-71.49580044782199
+42,0.0,0.2560909206015712,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.38126365,-71.49391192812799
+43,1.0,0.25659584358650944,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.382002,-71.49635367892593
+44,1.0,0.9548091744512797,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.381082,-71.51456995018467
+45,1.0,0.9639980633401685,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.3808316,-71.51316416168605
+46,1.0,0.9866832800842088,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.37848255,-71.5128956595938
+47,1.0,0.9642529992539282,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.38028495,-71.512509
+48,1.0,0.9785801054810344,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.3791116,-71.51329858919942
+49,1.0,0.9789801054810343,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.37915735,-71.51264131004132
+50,1.0,0.9679711810721099,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.3797595,-71.5124859
+51,1.0,0.95268682817011,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.3790438,-71.50973255337932
+52,1.0,0.9932220246729535,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.3790737,-71.50887493699456
+53,1.0,0.9936220246729536,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.3790737,-71.50887493699456
+54,1.0,0.9936220246729536,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.379163500000004,-71.50748557204902
+55,1.0,0.9932220246729535,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.37829655,-71.50808370811127
+56,1.0,0.9936220246729536,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.37844905,-71.50916678465313
+57,1.0,0.9635980633401684,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.38056145,-71.51387184217226
+58,1.0,0.9850220246729535,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.37832485,-71.50739128060506
+59,1.0,0.972295010837116,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.37759185,-71.50900390677415
+60,1.0,0.6150802075805173,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4273068,-71.5510918735602
+61,1.0,0.4220019297008461,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.431194170765316,-71.5076445014232
+62,0.0,0.5380658690438105,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.43486465,-71.50495855663857
+63,1.0,0.5380658690438105,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43486465,-71.50495855663857
+64,0.0,0.3297916972317903,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.434904700000004,-71.50558278725381
+65,1.0,0.5953915100694513,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.435321200000004,-71.50483179999999
+66,1.0,0.8915058431649768,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43691655,-71.50571021509205
+67,1.0,0.9055209946801284,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4369402,-71.50540098192985
+68,0.0,0.7385006964455108,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.437078,-71.50744985813903
+69,0.0,0.5333474477334382,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.43713685,-71.51049658209082
+70,0.0,0.1491452066595256,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.4415477,-71.5091137
+71,1.0,0.1491452066595256,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.4415477,-71.5091137
+72,0.0,0.29392434477287427,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.44167195,-71.50841997510148
+73,1.0,0.29392434477287427,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.44167195,-71.50841997510148
+74,1.0,0.4475764384652156,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.4421888,-71.50818353849469
+75,1.0,0.4475764384652156,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.4421888,-71.50818353849469
+76,0.0,0.7376055894970759,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.43755315,-71.50554356657487
+77,1.0,0.7376055894970759,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43755315,-71.50554356657487
+78,0.0,0.19670643987075875,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.439586,-71.5077957
+79,1.0,0.5293697087111948,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43766435,-71.50469316687546
+80,1.0,0.8018932835024174,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43813627347114,-71.50255156850207
+81,0.0,0.5015839444754305,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.43770715,-71.50506094258762
+82,1.0,0.8798708004299345,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4360784,-71.50284154401655
+83,1.0,0.9215797747889087,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4361725,-71.50373449202019
+84,1.0,0.8946121923713264,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.437447399999996,-71.50403219782258
+85,0.0,0.279955224153212,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.4388782,-71.51099536192146
+86,0.0,0.0898400729043918,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.439721399999996,-71.51061205443166
+87,0.0,0.3333296852184621,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.43928415000001,-71.51036737047144
+88,0.0,0.3888374391604268,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.44248855,-71.50863650036749
+89,0.0,0.11025015474721368,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.43845225,-71.51121835485066
+90,0.0,0.1863381859025048,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.440200899999994,-71.5075817
+91,0.0,0.455689316260508,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.4407338,-71.50733199999999
+92,0.0,0.11109884967973209,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.436981216519975,-71.51293278750893
+93,1.0,0.06456837956505133,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.440713200000005,-71.51098269892177
+94,0.0,0.12671240220907412,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.44120165,-71.51036134412175
+95,0.0,0.08388829298496482,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.4416437,-71.51045512399365
+96,1.0,0.08280396065063247,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.44172855,-71.51122092636547
+97,0.0,0.08852062731729916,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.44292025,-71.51053892293001
+98,0.0,0.08852062731729916,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.44292025,-71.51053892293001
+99,0.0,0.1500782329251989,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.442774,-71.50958018855778
+100,0.0,0.16865197029893628,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.44261245,-71.50905646138327
+101,0.0,0.09989530264197452,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.4422214,-71.51079096607756
+102,0.0,0.17808102861191097,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.43932589999999,-71.5118452334423
+103,0.0,0.12990930563244812,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.44070275,-71.51014756675995
+104,1.0,0.06461599861267038,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.44117915,-71.5112622119565
+105,1.0,0.7958692112640252,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4370646,-71.50703027801555
+106,0.0,0.10344719022807268,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.44195015,-71.50963254726857
+107,1.0,0.7998596874545014,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43716635,-71.5066667880291
+108,1.0,0.47920122173721263,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.43743265000001,-71.51153786970136
+109,1.0,0.9097201547649689,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4355315,-71.50738857205754
+110,1.0,0.827105796900611,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43614395,-71.5082450265869
+111,1.0,0.9463056766648104,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43618655,-71.50407685938178
+112,1.0,0.927180951390085,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4362758,-71.50426025039941
+113,1.0,0.6716051844411752,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43663045148022,-71.50681009292646
+114,0.0,0.11248694491782733,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.4371821,-71.51322568041067
+115,0.0,0.5535799162367278,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.43600245,-71.50878655427981
+116,1.0,0.8967873542321686,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.435897499999996,-71.50743296785544
+117,1.0,0.8467473830921974,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43565785,-71.50783423702907
+118,1.0,0.8215615928590387,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43538525,-71.50779662272404
+119,1.0,0.5298968357207524,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43441825,-71.5051275873953
+120,1.0,0.9295309513900852,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4363486,-71.50457073334043
+121,1.0,0.9190984117075454,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43671659090909,-71.505886
+122,0.0,0.5796913871273778,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.436648,-71.507273
+123,1.0,0.6184628656488564,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43651,-71.5079051766412
+124,0.0,0.1324557039365864,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.436786,-71.51209
+125,0.0,0.13367475155563396,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.43717235,-71.51197169049314
+126,1.0,0.869397671692486,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.43615705,-71.50774117970036
+127,1.0,0.47457011041074515,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,42.444013899999995,-71.50621075492936
+128,1.0,0.8605699383147528,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.4361575,-71.50738775688616
+129,0.0,0.2103654396074055,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,42.443889299999995,-71.50850612837688
+130,0.0,0.6763844100344104,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.628545700000004,-71.37739947558418
+131,1.0,0.6763844100344104,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.628545700000004,-71.37739947558418
+132,1.0,0.6763844100344104,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.628545700000004,-71.37739947558418
+133,1.0,0.6763844100344104,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.628545700000004,-71.37739947558418
+134,1.0,0.6763844100344104,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.628545700000004,-71.37739947558418
+135,0.0,0.6763844100344104,True,False Positive,Negative Exposure - Failed to Predict,Incorrect Prediction,42.628545700000004,-71.37739947558418
+136,1.0,0.6763844100344104,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.628545700000004,-71.37739947558418
+137,1.0,0.6763844100344104,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,42.628545700000004,-71.37739947558418
+138,1.0,0.7367008810555662,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.3832949465429,-70.61498967857398
+139,1.0,0.43421800528075283,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,41.382022579121276,-70.61809154105526
+140,1.0,0.7201053478821695,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.38376995453415,-70.61470816686295
+141,1.0,0.6201291299799274,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.383678625523274,-70.61684938665296
+142,1.0,0.5707143585154983,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.382212217616704,-70.61585338710115
+143,0.0,0.3770089865217342,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.38161865583238,-70.61825249738445
+144,1.0,0.38231155421547824,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,41.38271778008558,-70.61949267598544
+145,1.0,0.41555016756291513,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,41.38321317429186,-70.61720248072307
+146,0.0,0.32584048885517325,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37474847274938,-70.61246569902555
+147,1.0,0.6887351995148849,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.382828940828475,-70.61527106212888
+148,0.0,0.3582524689345744,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37364706719386,-70.62132629832817
+149,0.0,0.2624693035561244,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.38158860915727,-70.62017761590045
+150,0.0,0.10584733972626392,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37502966215583,-70.62429575685793
+151,1.0,0.6557401357414521,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.379374091400855,-70.61676511036463
+152,0.0,0.35364801466269896,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37624316277723,-70.61939015369956
+153,0.0,0.2520951234620526,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37665377818944,-70.62124931450276
+154,0.0,0.29323516540935257,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37782711556455,-70.62277533019255
+155,0.0,0.12683727262695738,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.38011184386848,-70.62132155637401
+156,1.0,0.3612098670137911,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,41.38374298290484,-70.61817551792372
+157,0.0,0.21777877033269463,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.38093298345425,-70.62971438425913
+158,0.0,0.13504453419845844,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37488881516313,-70.62238512565236
+159,1.0,0.6441596746029199,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.38020847595338,-70.61638305095073
+160,1.0,0.625851654552795,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.381270079051305,-70.61627281164402
+161,0.0,0.08875870119838582,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37808153289213,-70.62540174427937
+162,0.0,0.38755514083946935,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.36849600612268,-70.6247075145764
+163,1.0,0.5718130279815673,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.378384172397524,-70.6179860844102
+164,0.0,0.1522098916745764,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37397955622232,-70.62823074259082
+165,0.0,0.14422655834124307,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.378687510138654,-70.62226150732526
+166,0.0,0.09489679643648108,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.38012370521161,-70.62285155983895
+167,0.0,0.48492731094441627,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37710921288249,-70.61960540601524
+168,0.0,0.43293717527742276,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.38306666477119,-70.6192009745824
+169,0.0,0.1363004338543581,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.371543156266384,-70.62171365575105
+170,0.0,0.10217075242467663,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37747156356542,-70.62104686577058
+171,0.0,0.21261567363092135,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.377812655544965,-70.62091070521875
+172,0.0,0.11161818832211252,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37524717337517,-70.62215311370824
+173,0.0,0.08975870119838582,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37848481986862,-70.62515717179144
+174,0.0,0.0717190263729505,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37229936068518,-70.62635302029265
+175,1.0,0.6357612385275546,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.380630721770636,-70.61741728644735
+176,0.0,0.15265955312423793,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37445524110068,-70.6280330343414
+177,0.0,0.13190077240469666,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37381490148024,-70.6267268687793
+178,0.0,0.26291469797938277,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37206349451848,-70.62963132525128
+179,0.0,0.47749809056440623,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37962620857019,-70.61792121450357
+180,1.0,0.4813091581459787,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,41.382377804712,-70.61977229729115
+181,1.0,0.6461608257824051,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.37673172283829,-70.6185347376809
+182,0.0,0.2464532958452252,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37118110535483,-70.62845995668563
+183,1.0,0.5299476491442281,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.37202874423646,-70.6227947329152
+184,0.0,0.47406824482535004,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.369081336152576,-70.62588282450962
+185,0.0,0.34453725636936183,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37013208173283,-70.62320310930892
+186,0.0,0.1802348709350821,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.36373894127738,-70.61736246191751
+187,0.0,0.07391902637295052,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37152768721616,-70.62669819196738
+188,0.0,0.18699082740551215,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37535010542006,-70.62731563116213
+189,0.0,0.08810492380884799,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.370791932456214,-70.62703091464543
+190,1.0,0.24469647670040104,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,41.380051136711224,-70.61930209165511
+191,0.0,0.30894277452959523,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.38201917252504,-70.61996848775993
+192,0.0,0.3973199846739086,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.38345090952685,-70.61882509969959
+193,0.0,0.07314979560371974,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37011956594345,-70.62741057898293
+194,0.0,0.3259539095504886,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.376549959797735,-70.62645061667523
+195,0.0,0.0998601852141094,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37245450160093,-70.6208047231365
+196,0.0,0.11556743907136326,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37173597668517,-70.62802212734908
+197,0.0,0.22443354097848886,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.372761469721006,-70.62439839027356
+198,0.0,0.07314979560371974,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37049630875978,-70.62722617316494
+199,1.0,0.37330934161326573,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,41.38087503872385,-70.6187289320287
+200,0.0,0.28409139720608173,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37934494809498,-70.62460751652691
+201,0.0,0.1660776954816197,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37885882205598,-70.62345458502921
+202,1.0,0.13235235970628395,False,False Negative,Positive Exposure - Failed to Predict,Incorrect Prediction,41.378753511232645,-70.62032403071845
+203,1.0,0.586419267720584,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.381560414303436,-70.60965786844864
+204,0.0,0.25930416041752946,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.369183323686315,-70.61352266828614
+205,0.0,0.1291666590300279,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37280577805126,-70.62897580510108
+206,0.0,0.08796696732089151,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.368708521916304,-70.62191973505193
+207,0.0,0.4132320938503387,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.381164472315575,-70.60968726527238
+208,0.0,0.2080134651478867,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37652729441954,-70.6096678511507
+209,0.0,0.09319553874946296,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.36818698991845,-70.61391888502203
+210,0.0,0.11276743907136327,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.373132854511574,-70.62585160888007
+211,0.0,0.10137551128888013,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37769615904423,-70.62563411593163
+212,0.0,0.40741445031576623,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.380380369596466,-70.60959054169122
+213,1.0,0.5987415249146308,True,True Positive,Positive Exposure - Correctly Predicted,Correct Prediction,41.38423605235622,-70.61443872901017
+214,0.0,0.2841651782496,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.378524257617094,-70.60942500113957
+215,0.0,0.45846701827412345,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.369879185108225,-70.62542972732432
+216,0.0,0.14212439877832314,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.379117057813204,-70.62192091997028
+217,0.0,0.396856184319553,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.379546101896636,-70.60998464337301
+218,0.0,0.18541633003325933,False,True Negative,Negative Exposure - Correctly Predicted,Correct Prediction,41.37624112581779,-70.62144621793854

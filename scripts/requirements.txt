@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+sklearn
+scipy
+mpl_toolkits
+warnings
+plotly
+imblearn

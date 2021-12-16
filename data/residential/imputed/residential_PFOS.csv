@@ -1,0 +1,216 @@
+,level_0,index,Facility,Sample Collection Date,Sample Field ID,Acronym,Result_val,RL,MDL,limit,Result_val_cen
+0,121,121,Newburyport,11/3/2020,,PFOS,0.174,,,,0
+1,157,157,Soundview Vermont Holdings,12/9/2020,,PFOS,0.424251787769625,1.2,0.49,0.49,1
+2,105,105,Montague WPCF,10/26/2020,1 DUPLICATE,PFOS,0.234280284300583,0.51,,0.51,1
+3,104,104,Montague WPCF,10/26/2020,1,PFOS,0.363616624990822,0.51,,0.51,1
+4,101,101,"Merrimack, NH WWTF",6/2/2021,?,PFOS,0.48393395594691,0.51,,0.51,1
+5,49,49,Eresco (Erving),9/22/2020,Primary,PFOS,0.602746680958261,0.51,,0.51,1
+6,206,206,Taunton Water Treatment Facility,4/30/2021,Lagoon 2A/2B/2C Composite,PFOS,0.322175101620826,0.53,,0.53,1
+7,124,124,North Chelmsford Water District,11/9/2020,,PFOS,0.52351330042834,0.53,,0.53,1
+8,156,156,Soundview Vermont Holdings,12/9/2020,,PFOS,0.322175101620826,1.3,0.54,0.54,1
+9,30,30,"Bristol RI, WPCF",2/10/2021,,PFOS,0.52351330042834,2.0,0.54,0.54,1
+10,137,137,Resource Management Inc RMF,6/30/2021,CPM Duplicate,PFOS,0.424251787769625,1.4,0.57,0.57,1
+11,136,136,Resource Management Inc RMF,6/30/2021,CPM,PFOS,0.424251787769625,1.4,0.58,0.58,1
+12,119,119,City of Newburyport WTP,5/5/2021,A52308,PFOS,0.644,0.385,,0.385,0
+13,209,209,Tewksbury WTP,3/23/2021,TEWK-DPW-ST-003,PFOS,0.68,0.382,0.198,0.198,0
+14,210,210,Tewksbury WTP,3/23/2021,TEWK-DPW-ST-004,PFOS,0.69,0.367,0.191,0.191,0
+15,211,211,Tewksbury WTP,3/23/2021,TEWK-DPW-ST-005,PFOS,0.707,0.4,0.208,0.208,0
+16,177,177,Weymouth Water Dpt,2/8/2021,South Field Primary,PFOS,0.757,0.709,0.368,0.368,0
+17,120,120,City of Newburyport WTP,5/5/2021,A52309,PFOS,0.762,0.361,,0.361,0
+18,14,14,Barnhardt,3/23/2021,Duplicate,PFOS,0.572986587259224,0.81,,0.81,1
+19,13,13,Barnhardt,3/23/2021,Primary,PFOS,0.572986587259224,0.815,,0.815,1
+20,207,207,Tewksbury WTP,3/23/2021,TEWK-DPW-ST-001,PFOS,0.841,0.285,0.148,0.148,0
+21,178,178,Weymouth Water Dpt,2/8/2021,South Field Duplicate,PFOS,0.854,0.592,0.308,0.308,0
+22,122,122,Newburyport,8/4/2021,A54268,PFOS,0.866,0.505,,0.505,0
+23,208,208,Tewksbury WTP,3/23/2021,TEWK-DPW-ST-002,PFOS,0.912,0.349,0.181,0.181,0
+24,175,175,Weymouth Water Dpt,2/8/2021,North Field Primary,PFOS,0.989,0.836,0.435,0.435,0
+25,70,70,Greater Lawrence Sanitary District,3/25/2021,Synagro Pellets-DUP,PFOS,0.498784896483582,2.5,1.0,1.0,1
+26,69,69,Greater Lawrence Sanitary District,3/25/2021,Synagro Pellets,PFOS,0.878217272228268,2.6,1.0,1.0,1
+27,16,16,Barnhardt,6/8/2021,Duplicate,PFOS,0.685196117178465,1.07,,1.07,1
+28,123,123,Newburyport,8/4/2021,A54269,PFOS,1.1,0.635,,0.635,0
+29,11,11,Barnhardt,10/14/2020,,PFOS,0.705455538596879,1.15,,1.15,1
+30,12,12,Barnhardt,10/14/2020,,PFOS,0.705455538596879,1.16,,1.16,1
+31,91,91,Ipswich Compost,3/22/2021,Primary,PFOS,1.28,0.231,,0.231,0
+32,93,93,Ipswich Compost,3/22/2021,Primary,PFOS,1.28,0.231,,0.231,0
+33,149,149,Salem Beverly SE Sample,5/19/2021,,PFOS,1.3,,,,0
+34,48,48,Eresco (Erving),5/19/2020,,PFOS,1.3,,,,0
+35,129,129,Ocean Spray Middleborough,3/12/2021,Duplicate,PFOS,0.782082931244186,1.38,,1.38,1
+36,140,140,Rockport WTP,5/13/2021,Primary,PFOS,1.54,0.242,,0.242,0
+37,43,43,Dartmouth WWTF,4/26/2021,Duplicate,PFOS,1.57,0.161,0.509,0.161,0
+38,45,45,"EarthSource, Inc.",1/22/2021,Primary,PFOS,1.57,0.252,0.131,0.131,0
+39,89,89,Ipswich Compost,12/30/2020,Primary,PFOS,1.61,0.318,,0.318,0
+40,176,176,Weymouth Water Dpt,2/8/2021,North Field Duplicate,PFOS,1.68,1.58,0.823,0.823,0
+41,44,44,"EarthSource, Inc.",10/30/2020,,PFOS,0.877285479942126,1.72,,1.72,1
+42,141,141,Rockport WTP,5/13/2021,Duplicate,PFOS,1.8,0.226,,0.226,0
+43,86,86,Hoosac Water Quality District,6/2/2021,"Field
+Blank",PFOS,0.877285479942126,1.8,,1.8,1
+44,46,46,"EarthSource, Inc.",1/22/2021,Duplicate,PFOS,1.8,0.282,0.147,0.147,0
+45,195,195,Rousselot,3/11/2021,A51160,PFOS,0.914290789916804,1.81,,1.81,1
+46,94,94,Ipswich Compost,3/22/2021,Duplicate,PFOS,1.92,0.243,,0.243,0
+47,92,92,Ipswich Compost,3/22/2021,Duplicate,PFOS,1.92,0.243,,0.243,0
+48,90,90,Ipswich Compost,12/30/2020,Duplicate,PFOS,1.97,0.306,,0.306,0
+49,146,146,Salem Beverly NW Sample,5/19/2021,,PFOS,2.0,,,,0
+50,160,160,Soundview Vermont Holdings,5/14/2021,,PFOS,2.0,,,,0
+51,138,138,Rockport WTP,9/14/2020,PRIMARY SAMPLE,PFOS,0.969362240037244,2.0,,2.0,1
+52,174,174,"Waste Options Nantucket, LLC",5/13/2021,FC051321 DUP,PFOS,2.1,0.64,0.26,0.26,0
+53,29,29,"Bristol RI, WPCF",10/14/2020,,PFOS,2.1,,,,0
+54,128,128,Ocean Spray Middleborough,3/12/2021,Primary,PFOS,1.00586737443731,2.1,,2.1,1
+55,42,42,Dartmouth WWTF,4/26/2021,Primary,PFOS,2.11,0.185,0.583,0.185,0
+56,125,125,North Chelmsford Water District,3/10/2021,Primary,PFOS,1.06039379942607,5.4,2.2,2.2,1
+57,173,173,"Waste Options Nantucket, LLC",5/13/2021,FC051321,PFOS,2.3,0.63,0.25,0.25,0
+58,88,88,Ipswich Compost,9/25/2020, ,PFOS,2.32,,,,0
+59,40,40,Dartmouth WWTF,10/27/2020,Primary,PFOS,2.59,0.509,0.15,0.15,0
+60,126,126,North Chelmsford Water District,3/10/2021,Duplicate,PFOS,1.11494539902456,6.6,2.6,2.6,1
+61,139,139,Rockport WTP,9/14/2020,Duplicate,PFOS,2.64,1.37,,1.37,0
+62,172,172,"Waste Options Nantucket, LLC",1/27/2021,Duplicate,PFOS,2.8,0.77,0.31,0.31,0
+63,39,39,"Concord, NH WWTF",6/1/2021,,PFOS,2.88,,,,0
+64,142,142,Rouselott,10/19/2020,,PFOS,2.89,,,,0
+65,7,7,Barnhardt,6/2/2020,,PFOS,1.18805716356278,3.09,,3.09,1
+66,38,38,"Concord, NH WWTF",3/19/2021,,PFOS,3.11,0.528,,0.528,0
+67,95,95,Ipswich Compost,6/4/2021,Ipswich Compost,PFOS,3.2,,,,0
+68,8,8,Barnhardt,6/2/2020,,PFOS,1.20634403062061,3.2,,3.2,1
+69,9,9,Barnhardt,9/3/2020,,PFOS,1.22447609438909,3.29,,3.29,1
+70,107,107,Montague WPCF,3/16/2021,Duplicate,PFOS,1.22447609438909,8.3,3.3,3.3,1
+71,10,10,Barnhardt,9/3/2020,,PFOS,1.22447609438909,3.35,,3.35,1
+72,41,41,Dartmouth WWTF,10/27/2020,Duplicate,PFOS,3.43,0.499,0.147,0.147,0
+73,185,185,Weymouth Water Dpt,4/14/2021,North Field Primary,PFOS,3.48,2.06,,2.06,0
+74,24,24,Bridgewater Sewer,12/3/2020,(PFAS) Compost Type 1 Biosolids DUP,PFOS,1.25955231927534,8.8,3.5,3.5,1
+75,171,171,"Waste Options Nantucket, LLC",1/27/2021,Primary,PFOS,3.5,0.74,0.29,0.29,0
+76,170,170,"Waste Options Nantucket, LLC",10/28/2020,,PFOS,3.5,,,,0
+77,201,201,Rousselot Peabody,5/12/2021,A52441,PFOS,3.52,0.67,,0.67,0
+78,23,23,Bridgewater Sewer,12/3/2020,(PFAS) Compost Type 1 Biosolids,PFOS,1.3122673886216,9.0,3.6,3.6,1
+79,87,87,Ipswich Compost,4/16/2020,,PFOS,3.84,,,,0
+80,200,200,Rousselot Peabody,5/12/2021,A52440,PFOS,4.01,0.706,,0.706,0
+81,54,54,Eresco (Erving),12/15/2020,PRIMARY SAMPLE,PFOS,4.1,1.4,0.45,0.45,0
+82,162,162,Southbridge WWTF,9/25/2020,,PFOS,4.37,,,,0
+83,205,205,RMI-RMF,3/31/2021,Duplicate,PFOS,4.5,1.5,0.61,0.61,0
+84,168,168,"Southbridge, MA",5/11/2021,,PFOS,4.54,10.0,,10.0,0
+85,77,77,Hawk Ridge Compost Facility,5/2/2021,HRCF051221,PFOS,1.4193213362843,12.0,4.7,4.7,1
+86,71,71,Greater Lawrence Sanitary District,6/15/2021,Synagro Pellets,PFOS,4.7,0.52,0.21,0.21,0
+87,61,61,Greater Lawrence Sanitary District,9/29/2020,,PFOS,4.72,,,,0
+88,166,166,"Southbridge, MA",2/11/2021,Duplicate,PFOS,4.8,0.229,,0.229,0
+89,27,27,Bridgewater Sewer,4/28/2021,Type1 Biosolids-Compost,PFOS,4.8,1.0,0.4,0.4,0
+90,193,193,Rousselot,3/11/2021,A51157,PFOS,4.8,0.537,,0.537,0
+91,183,183,Weymouth Water Dpt,2/8/2021,Lagoon C Primary,PFOS,4.99,0.684,0.356,0.356,0
+92,167,167,"Southbridge, MA",5/11/2021,,PFOS,5.0,10.0,,10.0,0
+93,165,165,"Southbridge, MA",2/11/2021,Primary,PFOS,5.03,0.234,,0.234,0
+94,28,28,Bridgewater Sewer,4/28/2021,Type1 Biosolids-Compost Duplicate,PFOS,5.1,1.2,0.49,0.49,0
+95,74,74,Greater Lawrence Sanitary District,15-Jun-21,PELLET SAMPLE SPLIT DUP,PFOS,5.15,0.52,0.27,0.27,0
+96,32,32,Cascades Paper Mill,12/11/2020,Duplicate,PFOS,1.6049747585436,13.0,5.2,5.2,1
+97,161,161,Southbridge WWTF,4/8/2020,,PFOS,5.22,,,,0
+98,190,190,Rousselot,3/11/2021,A51146,PFOS,5.23,1.63,,1.63,0
+99,194,194,Rousselot,3/11/2021,A51158,PFOS,5.24,0.571,,0.571,0
+100,33,33,Cascades Paper Mill,3/1/2021,Primary,PFOS,1.66250942891497,13.0,5.3,5.3,1
+101,204,204,RMI-RMF,3/31/2021,Primary,PFOS,5.3,1.8,0.74,0.74,0
+102,76,76,Hawk Ridge Compost,10/23/2020,Compost 2,PFOS,1.6817543061627,14.0,5.4,5.4,1
+103,15,15,Barnhardt,6/8/2021,Primary,PFOS,5.52,1.06,,1.06,0
+104,198,198,Rousselot Peabody,5/12/2021,A52429,PFOS,5.54,0.392,,0.392,0
+105,59,59,Eresco (Erving),5/14/2021,PRIMARY SAMPLE,PFOS,5.54,0.261,,0.261,0
+106,100,100,"Merrimack, NH WWTF",3/19/2021,,PFOS,5.54,0.25,,0.25,0
+107,73,73,Greater Lawrence Sanitary District,15-Jun-21,PELLET SAMPLE SPLIT,PFOS,5.55,0.51,0.27,0.27,0
+108,66,66,Greater Lawrence Sanitary District,14-Dec-20,PELLET SPLIT DUP,PFOS,5.6,0.13,0.07,0.07,0
+109,188,188,Weymouth Water Dpt,7/22/2021,AJB NORTH FIELD DUPLICATE,PFOS,1.79883387933894,5.61,,5.61,1
+110,187,187,Weymouth Water Dpt,7/22/2021,AJB NORTH,PFOS,1.79883387933894,5.66,,5.66,1
+111,34,34,Cascades Paper Mill,3/1/2021,Duplicate,PFOS,1.79883387933894,14.0,5.7,5.7,1
+112,72,72,Greater Lawrence Sanitary District,6/15/2021,Synagro Pellets-DUP,PFOS,5.7,0.51,0.2,0.2,0
+113,78,78,Hawk Ridge Compost Facility,5/2/2021,HRCF 051221-DUP,PFOS,1.81827910706287,15.0,5.8,5.8,1
+114,25,25,Bridgewater Sewer,1/27/2021,Primary,PFOS,1.81827910706287,15.0,5.9,5.9,1
+115,196,196,Rousselot Peabody,5/12/2021,A52427,PFOS,5.97,3.48,,3.48,0
+116,31,31,Cascades Paper Mill,12/11/2020,Primary,PFOS,1.83751361997305,15.0,6.1,6.1,1
+117,55,55,Eresco (Erving),3/23/2021,Primary,PFOS,6.1,1.1,0.45,0.45,0
+118,65,65,Greater Lawrence Sanitary District,14-Dec-20,PELLET SPLIT,PFOS,6.18,0.13,0.07,0.07,0
+119,131,131,"Ocean Spray Receiving Station, Carver, MA",10/30/2020,,PFOS,1.87603310067561,6.19,,6.19,1
+120,118,118,Nashua WWTF,2/26/2021,Duplicate,PFOS,1.87603310067561,15.0,6.2,6.2,1
+121,199,199,Rousselot Peabody,5/12/2021,A52432,PFOS,6.39,0.394,,0.394,0
+122,26,26,Bridgewater Sewer,1/27/2021,Duplicate,PFOS,1.89516216673051,16.0,6.4,6.4,1
+123,164,164,"Southbridge, MA",12/4/2020,Duplicate,PFOS,6.44,,,,0
+124,191,191,Rousselot,3/11/2021,A51149,PFOS,6.48,0.458,,0.458,0
+125,145,145,Salem Beverly NW Sample,2/12/2021,,PFOS,6.5,6.4,2.1,2.1,0
+126,35,35,"Concord, NH WWTF",3/11/2020,,PFOS,6.56,,,,0
+127,98,98,"Merrimack, NH WWTF",9/17/2020,PRIMARY SAMPLE,PFOS,6.62,,,,0
+128,163,163,"Southbridge, MA",12/4/2020,Primary sample,PFOS,6.7,,,,0
+129,117,117,Nashua WWTF,2/26/2021,Primary,PFOS,1.99191204180403,17.0,6.7,6.7,1
+130,147,147,Salem Beverly SE Sample,10/6/2020,,PFOS,6.8,,,,0
+131,143,143,Salem & Beverly Water Supply,10/6/2020,,PFOS,6.8,,,,0
+132,99,99,"Merrimack, NH WWTF",9/17/2020,Duplicate,PFOS,6.81,,,,0
+133,67,67,Greater Lawrence Sanitary District,25-Mar-21,PELLET SAMPLE SPLIT,PFOS,6.86,1.24,0.645,0.645,0
+134,56,56,Eresco (Erving),3/23/2021,Duplicate,PFOS,7.1,1.2,0.46,0.46,0
+135,184,184,Weymouth Water Dpt,2/8/2021,Lagoon C Duplicatae,PFOS,7.12,1.02,0.531,0.531,0
+136,60,60,Eresco (Erving),5/14/2021,DUPLICATE SAMPLE,PFOS,7.15,0.268,,0.268,0
+137,148,148,Salem Beverly SE Sample,2/12/2021,,PFOS,7.3,6.9,2.3,2.3,0
+138,96,96,"Merrimack, NH WWTF",3/6/2020,,PFOS,7.62,,,,0
+139,110,110,MWRA,9/14/2020, ,PFOS,7.84,,,,0
+140,189,189,Rousselot,3/11/2021,A51145,PFOS,7.89,1.65,,1.65,0
+141,111,111,MWRA,9/14/2020,Primary,PFOS,8.0,0.51,,0.51,0
+142,68,68,Greater Lawrence Sanitary District,25-Mar-21,PELLET SAMPLE SPLIT-DUP,PFOS,8.01,1.27,0.659,0.659,0
+143,132,132,Resource Management Inc,11/16/2020,Primary,PFOS,2.27839072169579,22.0,9.0,9.0,1
+144,112,112,MWRA,9/14/2020,Duplicate,PFOS,9.0,0.5,,0.5,0
+145,133,133,Resource Management Inc,11/16/2020,Duplicate,PFOS,2.29977238358829,23.0,9.1,9.1,1
+146,192,192,Rousselot,3/11/2021,A51151,PFOS,9.28,0.474,,0.474,0
+147,64,64,Greater Lawrence Sanitary District,12/14/2020,Quarterly Pellet Sample Dup,PFOS,9.6,0.5,0.2,0.2,0
+148,63,63,Greater Lawrence Sanitary District,12/14/2020,Quarterly Pellet Sample,PFOS,9.7,0.51,0.21,0.21,0
+149,127,127,Ocean Spray Middleborough ,10/30/2020,,PFOS,10.0,,,,0
+150,52,52,Eresco (Erving),12/15/2020,PRIMARY SAMPLE,PFOS,10.0,11.0,4.5,4.5,0
+151,102,102,Middleborough ,10/30/2020,,PFOS,10.0,,,,0
+152,130,130,Ocean Spray Middleborough,3/26/2021,,PFOS,1.4417190855137,10.0,,10.0,1
+153,169,169,"Southbridge, MA",5/11/2021,,PFOS,3.67231130619517,10.0,,10.0,1
+154,47,47,Eresco (Erving),7/31/2019,,PFOS,10.0,,,,0
+155,197,197,Rousselot Peabody,5/12/2021,A52428,PFOS,10.1,4.89,,4.89,0
+156,97,97,"Merrimack, NH WWTF",9/17/2020, ,PFOS,10.3,,,,0
+157,186,186,Weymouth Water Dpt,4/14/2021,North Field Duplicate,PFOS,10.6,3.64,,3.64,0
+158,151,151,Somerset Water & Sewer Dept,10/27/2020,Duplicate,PFOS,11.0,5.4,2.2,2.2,0
+159,62,62,Greater Lawrence Sanitary District,9/29/2020,SYNAGRO BIOSOLIDS PELLET,PFOS,11.0,1.1,0.42,0.42,0
+160,36,36,"Concord, NH WWTF",9/2/2020, ,PFOS,2.56375949068305,11.2,,11.2,1
+161,75,75,Hawk Ridge Compost,10/23/2020,Compost 1,PFOS,13.0,1.5,0.58,0.58,0
+162,53,53,Eresco (Erving),12/15/2020,DUPLICATE SAMPLE,PFOS,13.0,12.0,4.7,4.7,0
+163,144,144,Salem Beverly NW Sample,10/6/2020,,PFOS,13.0,,,,0
+164,150,150,Somerset Water & Sewer Dept,10/27/2020,Primary,PFOS,13.0,5.7,2.3,2.3,0
+165,84,84,Hoosac Water Quality District,6/2/2021,Final Compost,PFOS,13.1,0.209,,0.209,0
+166,37,37,"Concord, NH WWTF",3/1/2021,Dewatered sludge cake,PFOS,14.0,0.512,,0.512,0
+167,85,85,Hoosac Water Quality District,6/2/2021,"Final Compost
+Duplicate",PFOS,14.6,0.776,,0.776,0
+168,79,79,Hoosac Water Quality District,5/1/2020,,PFOS,14.8,,,,0
+169,18,18,Braintree Water and Sewer,10/29/2020,,PFOS,2.75083195537171,38.0,15.0,15.0,1
+170,57,57,Eresco (Erving),6/23/2021,PRIMARY SAMPLE,PFOS,15.0,1.1,0.44,0.44,0
+171,103,103,Milorganite,5/28/2020,,PFOS,15.0,,,,0
+172,114,114,MWRA,12/22/2020,Duplicate,PFOS,15.9,0.458,,0.458,0
+173,116,116,MWRA,3/11/2021,Duplicate,PFOS,15.9,0.128,,0.128,0
+174,109,109,MWRA,3/11/2020,,PFOS,16.0,,,,0
+175,158,158,Soundview Vermont Holdings,3/1/2021,Primary,PFOS,16.0,12.0,4.8,4.8,0
+176,115,115,MWRA,3/11/2021,Primary,PFOS,16.1,0.13,,0.13,0
+177,58,58,Eresco (Erving),6/23/2021,DUPLICATE SAMPLE,PFOS,17.0,1.3,0.54,0.54,0
+178,20,20,Braintree Water and Sewer,3/3/2021,,PFOS,2.92266578753639,43.0,17.0,17.0,1
+179,155,155,Somerset Water & Sewer Dept,4/26/2021,Duplicate,PFOS,17.0,9.2,3.7,3.7,0
+180,81,81,Hoosac Water Quality District,12/9/2020,,PFOS,17.2,1.69,,1.69,0
+181,113,113,MWRA,12/22/2020,Primary,PFOS,17.3,0.503,,0.503,0
+182,108,108,MWRA,3/25/2019,,PFOS,17.3,,,,0
+183,83,83,Hoosac Water Quality District,3/3/2021,"Final Compost
+Duplicate",PFOS,17.8,0.221,,0.221,0
+184,82,82,Hoosac Water Quality District,3/3/2021,Final Compost,PFOS,18.7,0.212,,0.212,0
+185,80,80,Hoosac Water Quality District,9/15/2020, ,PFOS,19.0,,,,0
+186,152,152,Somerset Water & Sewer Dept,1/19/2021,Primary,PFOS,19.0,8.4,3.3,3.3,0
+187,159,159,Soundview Vermont Holdings,3/1/2021,SVH Duplicate,PFOS,19.0,12.0,4.9,4.9,0
+188,17,17,Braintree Water and Sewer,10/29/2020,,PFOS,3.18276139027331,51.0,20.0,20.0,1
+189,154,154,Somerset Water & Sewer Dept,4/26/2021,Primary ,PFOS,21.0,11.0,4.6,4.6,0
+190,134,134,Resource Management Inc RMF,10/6/2020,Primary,PFOS,21.0,5.5,2.2,2.2,0
+191,179,179,Weymouth Water Dpt,2/8/2021,Lagoon A Primary,PFOS,21.1,3.0,1.56,1.56,0
+192,153,153,Somerset Water & Sewer Dept,1/19/2021,Duplicate,PFOS,22.0,8.4,3.4,3.4,0
+193,180,180,Weymouth Water Dpt,2/8/2021,Lagoon A Duplicate,PFOS,23.6,3.25,1.69,1.69,0
+194,19,19,Braintree Water and Sewer,3/3/2021,,PFOS,3.31972261617535,60.0,24.0,24.0,1
+195,135,135,Resource Management Inc RMF,10/6/2020,Duplicate,PFOS,24.0,6.3,2.5,2.5,0
+196,22,22,Braintree Water and Sewer,3/3/2021,PFAS BIOSOLIDS NorthLagoon,PFOS,26.0,43.0,17.0,17.0,0
+197,182,182,Weymouth Water Dpt,2/8/2021,Lagoon B Duplicate,PFOS,34.4,5.4,2.81,2.81,0
+198,181,181,Weymouth Water Dpt,2/8/2021,Lagoon B Primary,PFOS,37.2,5.45,2.84,2.84,0
+199,202,202,Hawk Ridge Compost Facility,3/2/2021,HRCF1-A,PFOS,38.0,16.0,6.3,6.3,0
+200,5,5,Amesbury WTP,6/16/2021,A53246,PFOS,40.8,0.579,,0.579,0
+201,0,0,Amesbury WTP,9/9/2020, ,PFOS,41.0,,,,0
+202,3,3,Amesbury WTP,3/3/2021,Primary,PFOS,42.4,0.701,,0.701,0
+203,4,4,Amesbury WTP,3/3/2021,Duplicate,PFOS,43.5,0.709,,0.709,0
+204,6,6,Amesbury WTP,6/16/2021,A53247,PFOS,43.8,0.611,,0.611,0
+205,106,106,Montague WPCF,3/16/2021,Primary,PFOS,44.0,8.9,3.5,3.5,0
+206,203,203,Hawk Ridge Compost Facility,3/2/2021,HRCF1-B,PFOS,46.0,14.0,5.8,5.8,0
+207,50,50,Eresco (Erving),9/22/2020,FIELD DUPLICATE SAMPLE,PFOS,48.0,11.0,4.5,4.5,0
+208,21,21,Braintree Water and Sewer,3/3/2021,PFAS BIOSOLIDS NorthLagoon,PFOS,50.0,60.0,24.0,24.0,0
+209,1,1,Amesbury WTP,12/2/2020,A49324,PFOS,59.9,0.65,,0.65,0
+210,2,2,Amesbury WTP,12/2/2020,A49325,PFOS,68.8,0.663,,0.663,0
+211,51,51,Eresco (Erving),9/22/2020,Primary,PFOS,140.0,1.4,0.47,0.47,0

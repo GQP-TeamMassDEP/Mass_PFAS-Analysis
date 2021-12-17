@@ -6,6 +6,4 @@ features: contains shapefiles and tables used for feature engineering in release
 
 modeling_data: output from release risk, well exposure and source attribution pipelines.
 
-private_wells: contains anonymized data at the CBG level of private well samples.
-
 residential: contains raw and imputed data for the residential profile used in source attribution modeling.
